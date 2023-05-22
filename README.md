@@ -1,2 +1,2 @@
 # myprojects
-SQL , R, and tableau
+Entry Level Data Analyst skilled in SQL, R, and Tableau. 
